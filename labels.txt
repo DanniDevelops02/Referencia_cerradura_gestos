@@ -1,0 +1,2 @@
+0 Aprovado
+1 Denegado
